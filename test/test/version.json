@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":"1.1.1-BETA","versionFileHash":"af04e9e95f3fb73cec589c5e11e5326d0bc80cacd09930d505c68891c1b38df2","signature":"3045022100ff55fcc3ecd542614144d63af46834b39edfd2927e78c07d124db307a450b208022038209e4586cdc63d4b9620a4bc12c98673bbf5f1d3db1a50c9419536c06c0000","information":"for test\n版本升级测试专用\n"}
+=======
+{"version":"1.1.2","versionFileHash":"2ab1728569772059c7d0ba166196036f7d08421ee60673289441981294b6c9ec","signature":"304402206451fd332e7d2ca00fa3d6dbb18151c41e87bcae3f94e05df912b8bbc7cfe3b402205126d224b061d87c9af3986db66d165e51617f1c5ae923106a0f697ddec9ef1c","information":"for test\n测试专用\n"}
+>>>>>>> 86c1cbb16cc5bacc814b9ee46668a4d7aea78b03
